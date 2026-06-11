@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm <a href="#" target="_blank">Insiderepta | Всем привет, я Insiderepta</a> <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h1 align="center">Hi there, I'm <a href="" target="_blank">Insiderepta | Всем привет, я Insiderepta</a> <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">I am a young programmer and IT enthusiast from Russia 🪆 | Я юный программист и IT-специалист из России 🪆</h3>
 
 ---
