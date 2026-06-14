@@ -35,6 +35,6 @@
 <p align="left">
   <img src="https://cdn-icons-png.flaticon.com/128/5968/5968756.png" height=18 /> <img src="https://cdn-icons-png.flaticon.com/128/1384/1384060.png" height=18 /> <a href="https://github.com/Flowseal/zapret-discord-youtube"> - zapret-discord-youtube</a> 
     <img src="https://img.icons8.ru/?size=100&id=ZAPJV5FAO4PW&format=png&color=000000" height=20 /><a href="brave.com"> - Brave (Browser)</a> 
-    <a href="https://github.com/KaringX/karing"> - Karing (VPN)</a> 
+    <a href="https://github.com/KaringX/karing"> Karing (VPN)</a> 
   
 </p>
