@@ -24,8 +24,8 @@
 ## 📊 My statistics
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Insiderepta&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Insiderepta&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+  <img src="https://readme-stats-ten-pi.vercel.app/api?username=Insiderepta&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
+  <img src="https://readme-stats-ten-pi.vercel.app/api/top-langs/?username=Insiderepta&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
 </p>
 ---
 
