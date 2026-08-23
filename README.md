@@ -70,7 +70,6 @@
 
 | QUEST | STATUS | DESCRIPTION |
 |---|---|---|
-| 🛠 **InsideOS** | `🔧 in progress` | my attempt to look under the hood of operating systems |
 | 🧠 **DevilMod** | `🚀 deployed` | mod for Minecraft Forge 1.20.1 |
 
 <img src="assets/anime2.png" align="right" width="42%" alt="anime art 2"/>
