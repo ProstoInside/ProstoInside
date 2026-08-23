@@ -16,9 +16,9 @@
 
       ██████╗   OS       →  Windows 11, heavily customized
       ██╔══██╗  Shell    →  PowerShell + pure curiosity
-      ██████╔╝  CPU      →  brain @ overclocked
-      ██╔══██╗  GPU      →  imagination RTX
-      ╚═╝  ╚═╝  RAM      →  full of anime & wild ideas
+      ██████╔╝  CPU      →  I5-10400F
+      ██╔══██╗  GPU      →  GeForce RTX 5050
+      ╚═╝  ╚═╝  RAM      →  32 GB
                 Uptime   →  still young, already dangerous
                 Mods     →  Minecraft Forge wizard 🧙
 ```
