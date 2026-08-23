@@ -51,8 +51,15 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=windows,python,java,cpp,arduino,git,react,tauri&theme=dark" alt="tech icons" />
+    <img src="https://skillicons.dev/icons?i=windows,python,java,cpp,arduino,git,react,tauri,vscode,pycharm,idea,github&theme=dark" alt="tech icons" />
   </a>
+</p>
+
+<p align="center">
+  <b>🤖 AI Squad</b><br/>
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Codex-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenCode-000000?style=for-the-badge&logo=opencode&logoColor=white"/>
 </p>
 
 ---
