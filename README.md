@@ -60,8 +60,8 @@
 ## 🖥️ System Monitor
 
 <p align="center">
-  <img src="https://readme-stats-ten-pi.vercel.app/api?username=Insiderepta&show_icons=true&theme=synthwave&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
-  <img src="https://readme-stats-ten-pi.vercel.app/api/top-langs/?username=Insiderepta&layout=compact&theme=synthwave&hide_border=true&bg_color=0d1117" alt="Top Languages" />
+  <img src="https://readme-stats-ten-pi.vercel.app/api?username=ProstoInside&show_icons=true&theme=synthwave&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
+  <img src="https://readme-stats-ten-pi.vercel.app/api/top-langs/?username=ProstoInside&layout=compact&theme=synthwave&hide_border=true&bg_color=0d1117" alt="Top Languages" />
 </p>
 
 ---
@@ -94,8 +94,8 @@
 ```
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/insiderepta/insiderepta/output/github-contribution-grid-snake-dark.svg" />
-  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/insiderepta/insiderepta/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ProstoInside/ProstoInside/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/ProstoInside/ProstoInside/output/github-contribution-grid-snake.svg" />
 </picture>
 
 ---
