@@ -14,14 +14,9 @@
 ## 🛠 Technologies and tools
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Windows_11-0078D4?style=for-the-badge&logo=windows11&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Tauri-24C8DB?style=for-the-badge&logo=tauri&logoColor=white"/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=windows,python,java,cpp,arduino,git,react,tauri&theme=dark" alt="Tech stack icons"/>
+  </a>
 </p>
 ---
 
@@ -29,8 +24,8 @@
 ## 📊 My statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Insiderepta&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Insiderepta&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Insiderepta&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Insiderepta&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
 </p>
 ---
 
